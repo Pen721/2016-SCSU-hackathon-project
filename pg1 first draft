@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<style>
+
+.body{background-color:rgb(100,100,250);}
+
+
+.title {color:rgb(0,0,120);
+	font-size: 5em;	}
+
+	
+#random {width:50%;}
+
+body {background-color: #CCFFFF;}
+
+h3.text{font-size:3.5em;}
+
+.text {position: absolute;
+font-family: fantasy;
+	left:20px;
+	font-size:2em;
+}
+
+#ein {width:50;}
+
+.help {width:100%;
+	position:absolute;
+	right:0px;
+	top:50em;
+}
+
+li.help{display:block;
+	width:100%;
+}
+
+</style>
+
+<body>
+  
+
+
+<div class="text">
+<h1 class="title">Welcome to RPGeniuseseniuses</h1>
+<h3>Here</h3>
+<ul class="list">
+	<li>Learn more about coding!</li>
+	<li>Get girls excited about technology!</li>
+	<li>Get a background in JavaScript!</li>
+	<li>Learn how to do cool tricks on JavaScript!</li>
+	<li>Create an RPG!</li>
+
+</ul>
+</div>
+<img id="random" src="http://orig10.deviantart.net/6892/f/2014/217/2/d/_mmd_animation__miku_is_cleaning_your_screen_by_fukkatsumimori-d7ip5pf.gif">
+<img id="ein" src="http://img04.deviantart.net/f35a/i/2014/171/4/3/ene_by_kurodoppelganger-d7n5exp.png" class="img" width:20%>
+<h3> I'm Ene! I will be your guide!</h3>
+<h6> Ene is owned by Jin</h6>
+<ul class="help">
+	<li><a href="sample">Tutorials</a></li>
+	<li><a href="sample">Downloads</a></li>
+	<li><a href="sample">Help</a></li>
+	<li><a href="sample">About</a></li>
+</ul>
+
+<a href="link that we have not made yet" class="next">NEXT STEP</a>
+
+
+<script>
+
+
+</script>
+</body>
