@@ -1,0 +1,121 @@
+<!DOCTYPE HTML>
+<html>
+    
+    <style>
+    .beginningP {background-color: rgb(100,150,200);
+        
+    }
+    .beginningP {text-align: left;
+    }
+    
+    body {
+        background: linear-gradient(to bottom right, blue, green);
+    }
+    
+    #HI{
+     position: absolute;
+     right:0px;
+     top:0px;
+        width:50%;
+    }
+    
+      #bad{
+     position: absolute;
+     right:0px;
+     top:0px;
+        width:50%;
+    }
+    
+    #HI:hover {opacity:0;}
+    
+.buttons {
+    position: fixed;
+    bottom:0px;
+    background:rgb(100,150,220);
+    
+}
+    </style>
+    <head>
+        <script src="//cdn.tinymce.com/4/tinymce.min.js"></script>
+  <script>tinymce.init({ selector:'textarea' });</script>
+    </head>
+    
+    <body>
+        <img id="bad" src="https://lh5.googleusercontent.com/-ypH_tmLUPGw/VxJU6JFdoaI/AAAAAAAAAHg/o1xUDa_7fbAWWf4jEFEIp2i4uLKxzoSPQCL0B/w1247-h791-no/ce95f508-57d4-44f2-b074-6df9b0361ebb.jpg">
+        <img id="HI" src="https://lh5.googleusercontent.com/-ZQDVvbGbZec/VxJU_1SVwII/AAAAAAAAAHg/J0XyLhFwSOkqoxFmYlB0U2ttsL4CWs9CwCL0B/w1247-h791-no/80851ba1-e209-4884-a170-fe03dda00062.jpg">
+    
+        
+        <div class="beginningP">
+        <h1>
+            Welcome to Lesson 1! 
+        </h1>
+        <p>
+            In this lesson you will learn about p tags and h tags.
+        </p>
+        <h3>
+            &lt;h&gt;&lt;/h&gt; tags:
+        </h3>
+        <h4>
+            &lt;h&gt;&lt;/h&gt; tags are used in html very commonly here are something they are used for:
+        </h4>
+        <h5>
+            -They control show you which text is more important by using text size
+            <br>
+            -There are 6 &lt;h&gt;&lt;/h&gt; tags with &lt;h1&gt;&lt;/h1&gt; beign the biggest and &lt;h6&gt;&lt;/h6&gt;being the biggest
+            <br>
+            -They define html headings
+        </h5>
+        
+        <h3>
+            &lt;p&gt;&lt;/p&gt; tags:
+        </h3>
+        <h4>
+            &lt;p&gt;&lt;/p&gt; tags are used in html. Here are some uses fo &lt;p&gt;&lt;/p&gt; tags:
+        </h4>
+        <h5>
+            -They difine a paragraph in html.
+            <br>
+            -They create new paragraphs.
+            <br>
+            -&lt;h&gt;&lt;/h&gt; tags are nested inside &lt;p&gt;&lt;/p&gt; tags.
+        </h5>
+        <h5>
+            Here is how to use &lt;h&gt;&lt;/h&gt; tags and &lt;p&gt;&lt;/p&gt; tags in a code editor.
+        </h5>
+        <h4>
+           &lt;h&gt;
+           <br>
+                    &lt;p&gt;
+                    <br>
+                    Hi this is how you use p and h tags.
+                    <br>
+                    &lt;/p&gt;
+                  <br>
+        &lt;/h&gt;
+     </h4>
+         <textarea>Type your code here!</textarea>
+        </div>
+       
+        
+        <div class="buttons">
+            <a href="https://femhack-youkaisage.c9users.io/page2.php">PREVIOUS STEP</a>
+            <a href="https://femhack-youkaisage.c9users.io/newtester.html">NEXT STEP</a>
+        </div>
+        
+        
+        
+        
+        
+        
+    </body>
+    <script src="Jquery.JS">
+
+
+
+
+</script>
+    
+    
+    
+    
+</html>
