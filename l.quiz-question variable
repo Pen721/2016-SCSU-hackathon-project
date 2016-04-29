@@ -1,0 +1,21 @@
+var questions = [{
+    question: "what does an a tag look like?",
+    choices: ["a","ba","ce","<a></a>"],
+    correctAnswer: 0
+  }, {
+    question: "What does p stand for?",
+    choices: ["phosphorus", "true/false value", "paragraph", "a string of text", "a number value"],
+    correctAnswer: 2
+  }, {
+    question: "how does a p tag look?",
+    choices: ["<p>...<p>", "p.../p", "/*p...p*/", "p(....)", "<p>...</p>"],
+    correctAnswer: 4
+  }, {
+    question: "which prints the biggest text?",
+    choices: ["h1", "h0", "h6", "title", "p6"],
+    correctAnswer: 0
+  }, {
+    question: "what is an a tag used for?",
+    choices: ["array", "arrangement", "note", "image", "link"],
+    correctAnswer: 4
+  }]
