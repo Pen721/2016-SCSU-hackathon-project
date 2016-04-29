@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<style>
+
+.body{background-color:rgb(100,100,250);}
+
+
+.title {color:rgb(150,200,250);
+	font-size: 3em;	}
+	
+	
+.uselessintroductionthatnooneread {
+	position: absolute;	}
+
+</style>
+
+<body>
+
+<div class="uselessintroductionthatnooneread">
+<h1 class="title">Welcome to RPGeniuses</h1>
+<h3>Here</h3>
+<ul class="list">
+	<li>Learn more about coding!</li>
+	<li>Get girls excited about technology!</li>
+	<li>Get a background in JavaScript!</li>
+	<li>Learn how to do cool tricks on JavaScript!</li>
+	<li>Create an RPG!</li>
+
+</ul>
+
+<img src="http://img04.deviantart.net/f35a/i/2014/171/4/3/ene_by_kurodoppelganger-d7n5exp.png" class="imggg" width:20%>
+<h3> I'm Ene! I will be your guide!</h3>
+<h6> Ene is owned by Jin</h6>
+<h6><a href="http://mikumikudance.wikia.com/wiki/YYB">YYB</a> is the creater of this MMD model</h6>
+<ul>
+	
+	<li>Tutorials<br></li>
+	<li>Downloads</li>
+	
+	<li>Help</li>
+	<li>About</li>
+</ul>
+
+<a href="https://femhack-youkaisage.c9users.io/page2.php" class="next">NEXT STEP</a>
+
+
+
+<script>
+
+
+</script>
+
+</body>
