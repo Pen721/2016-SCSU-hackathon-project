@@ -1,0 +1,82 @@
+<!DOCTYPE html>
+<html>
+    <body>
+        <style>
+         body {
+        background: linear-gradient(to bottom right, blue, green);
+    }
+     .text {background: rgb(100,150,220);
+         font-family: fantasy;
+     }  
+     #ene {width:50%;}
+        
+    .next {background:rgb(100,150,220);}
+        
+        </style>
+        <img id="ene" src="https://lh5.googleusercontent.com/-ZQDVvbGbZec/VxJU_1SVwII/AAAAAAAAAHg/J0XyLhFwSOkqoxFmYlB0U2ttsL4CWs9CwCL0B/w1247-h791-no/80851ba1-e209-4884-a170-fe03dda00062.jpg">
+        <div class="text">
+            <head>
+              
+  <script>tinymce.init({ selector:'textarea' });</script>
+            </head>
+        <h1>
+          Welcome to Lesson 2!
+        </h1>
+        <p>
+            In this lesoon we wil learn about   &lt;a href&gt;&lt;/a href&gt; and   &lt;img src&gt;&lt;/img src&gt;
+        </p>
+        <h3>
+            &lt;a href&gt;&lt;/a href&gt; tags
+        </h3>
+        <h3>
+            How &lt;a href&gt;&lt;/a href&gt; tags are used:
+        </h3>
+       <p>
+           -used in html 
+           <br>
+           -are defined with &lt;a&gt;&lt;/a&gt; tags
+           <br>
+           -creates a hyperlink
+           <br>
+           -with can be attached sfter
+           <br>
+           remember, when attaching link to href, surround them with ""
+           
+        <h3>
+            &lt;img src&gt;&lt;/img src&gt; tags
+        </h3>
+        
+        <h3>
+            How lt;img src&gt;&lt;/img src&gt; tags are used:
+        </h3>
+        <p>
+            -Put an image from the web in your game
+            <br>
+            -Used in html 
+            <br>
+            -src is one of two required &lt;img&gt;&lt;/img&gt; attributes
+            
+    <h1>
+        Here is an example of how you would use &lt;img src&gt;&lt;/img src&gt; and &lt;a href&gt;&lt;/a href&gt; in a code editor.
+        
+    </h1>
+      <p>
+          &lt;p&gt;
+          <br>
+          &lt;a href= (your website here)&gt;
+          <br>
+          &lt;/a href&gt;
+          <br>
+          &lt;img src=(image hyperlink here)&gt;
+          <br>
+          &lt;/img src&gt;
+          <br>
+          &lt;/p&gt;
+      </p>      
+            
+        <textarea>Type your code here!</textarea>
+       </div>
+       <a class="next" href="https://femhack-youkaisage.c9users.io/page3.html">PREVIOUS STEP</a>
+       <a href="random link" class="next">NEXT STEP</a>
+    </body>
+</html>

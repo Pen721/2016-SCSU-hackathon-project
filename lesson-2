@@ -1,0 +1,99 @@
+<DOCTYPE! html>
+    <!DOCTYPE html>
+    <html>
+        
+    
+<style>
+ body {
+        background: linear-gradient(to bottom right, blue, green);
+    }
+.body{background-color:rgb(100,100,20);}
+
+.next {width: 100%;
+background-color:rgb(100,100,220);}
+
+h2{
+    
+    color:#fff;}
+    
+   #HI {
+     position: absolute;
+     left:0px;
+     top:100px;
+        width:50%;
+    }
+    
+      #bad{
+     position: absolute;
+     left:0px;
+     top:100px;
+        width:50%;
+    }
+    
+    #HI:hover {opacity:0;}
+
+.buttons {
+    position: fixed;
+    bottom: 0px;
+}
+
+
+</style>  
+ <head>
+        <script src="//cdn.tinymce.com/4/tinymce.min.js"></script>
+  <script>tinymce.init({ selector:'textarea' });</script>
+    </head>
+    
+    <body>
+        <img id="bad" src="https://lh4.googleusercontent.com/-phVaH7UOCg4/VxI_eJRoMmI/AAAAAAAAAGI/RmZCqtqE_lITCq3vzZGBsr1IdDPVzPBVACL0B/w1239-h791-no/da53f60c-e5c8-4b4a-b39e-f840b969005a.jpg">
+        <img id="HI" src="https://lh6.googleusercontent.com/-rtycy1DUjNQ/VxI_LsevS0I/AAAAAAAAAGA/M8Rq0M8KzXMAfiKyCTGUt4XXJhkURBVPQCL0B/w1315-h835-no/6ac288f5-5f36-41b1-804a-f0f3a8516b9e.jpg">
+    
+
+
+<body>
+<h1>Let's get started!</h1>
+
+<?php
+
+    if(isset($_POST['submitButtonClicked'])){
+        $userName = $_POST['userName'];
+        echo("<h2>Hello ". "{$userName}</h2>");
+    }
+   
+?>
+<form action="<?php echo $_SERVER['PHP_SELF']; ?>" method="POST">
+Please enter your name:<input type="text" name="userName">
+
+<a href="https://femhack-youkaisage.c9users.io/test1.html"><input type="button" value= "Quiz"></a> 
+
+<input type="submit" name="submitButtonClicked" value="Submit this entry">
+</form>
+
+
+
+
+
+
+
+
+<script src="Jquery.JS">
+
+
+
+
+
+
+</script>
+
+
+<script src="python-3.5.1.js">
+
+
+</script>
+<div class="buttons">
+<a class="next" href="https://femhack-youkaisage.c9users.io/page1.html">PREVIOUS STEP</a>
+<a id="next" href="https://femhack-youkaisage.c9users.io/page3.html" class="next">NEXT STEP</a>
+</div>
+</body>
+
+</html>
